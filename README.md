@@ -11,7 +11,11 @@ git clone https://github.com/suckybell/fedora-post-install ~/Downloads/fedora-po
 ```bash
 cd ~/Downloads/fedora-post-install
 ```
-3. Run install script
+3. Allow install script to be run
+```bash
+chmod a+x install.sh
+```
+4. Run install script
 ```bash
 ./install.sh
 ```
