@@ -5,7 +5,7 @@ My personal post-installer for Fedora GNU/Linux.  It features a command line int
 
 1. Clone this repo to your Downloads folder. (or any folder of your choice)
 ```bash
-git clone https://github.com/suckybell/fedora-post-install ~/Downloads
+git clone https://github.com/suckybell/fedora-post-install ~/Downloads/fedora-post-install
 ```
 2. cd into downloaded folder
 ```bash
